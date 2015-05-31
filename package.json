@@ -1,0 +1,15 @@
+{
+  "name": "CarParkFinder",
+  "version": "0.0.0",
+  "description": "An app which finds the nearest car park",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.12.4",
+    "babyparse": "~0.4.3"
+  }
+}
